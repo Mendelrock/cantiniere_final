@@ -11,3 +11,4 @@ admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: 'https://food-for-fun-bdd.firebaseio.com/'
 });
+
